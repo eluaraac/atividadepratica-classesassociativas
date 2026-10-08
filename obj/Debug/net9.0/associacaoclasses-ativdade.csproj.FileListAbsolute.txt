@@ -1,0 +1,14 @@
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\bin\Debug\net9.0\associacaoclasses-ativdade.exe
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\bin\Debug\net9.0\associacaoclasses-ativdade.deps.json
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\bin\Debug\net9.0\associacaoclasses-ativdade.runtimeconfig.json
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\bin\Debug\net9.0\associacaoclasses-ativdade.dll
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\bin\Debug\net9.0\associacaoclasses-ativdade.pdb
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\associacaoclasses-ativdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\associacaoclasses-ativdade.AssemblyInfoInputs.cache
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\associacaoclasses-ativdade.AssemblyInfo.cs
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\associacaoclasses-ativdade.csproj.CoreCompileInputs.cache
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\associacaoclasses-ativdade.dll
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\refint\associacaoclasses-ativdade.dll
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\associacaoclasses-ativdade.pdb
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\associacaoclasses-ativdade.genruntimeconfig.cache
+C:\Users\51686911882\Desktop\Workspace#\PBE\associacaoclasses-ativdade\obj\Debug\net9.0\ref\associacaoclasses-ativdade.dll
